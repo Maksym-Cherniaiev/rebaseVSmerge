@@ -1,0 +1,42 @@
+commit 3f65f9dd6f4d22821be5208798d563b5f38ab7ce
+Author: Maksym <likeran2@gmail.com>
+Date:   Fri Feb 15 23:00:49 2019 +0200
+
+    Added 3.txt
+
+commit b8dca5958eeb3f7797d41b42a36eebb31f13b960
+Author: Maksym <likeran2@gmail.com>
+Date:   Fri Feb 15 23:02:05 2019 +0200
+
+    changes before rebase bugFix2 onto master
+
+commit a87598b369f59dd570d832793f419f53ca4ee84f
+Author: Maksym <likeran2@gmail.com>
+Date:   Fri Feb 15 22:59:59 2019 +0200
+
+    commit master 2 after MERGE
+
+commit f08db8684f5bff84c6c2d2a4c776b8ea96c5b637
+Merge: 3d98f05 6c539c4
+Author: Maksym <likeran2@gmail.com>
+Date:   Fri Feb 15 22:57:59 2019 +0200
+
+    Merge branch 'bugFix'
+
+commit 3d98f0562336fa751c080722b6d8764a77355dfd
+Author: Maksym <likeran2@gmail.com>
+Date:   Fri Feb 15 22:57:20 2019 +0200
+
+    commit master 1
+
+commit 6c539c4b1b168ecdaffc0b2c021572d7052e7415
+Author: Maksym <likeran2@gmail.com>
+Date:   Fri Feb 15 22:56:37 2019 +0200
+
+    Added 2.txt
+
+commit 1cb18486f831aae2672b6565240cf1fa61630a64
+Author: Maksym <likeran2@gmail.com>
+Date:   Fri Feb 15 22:54:40 2019 +0200
+
+    Project start
